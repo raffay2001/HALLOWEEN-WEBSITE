@@ -1,4 +1,4 @@
-# HALLOWEEN-WEBSITE
+# HALLOWEEN-WEBSITE 🎃
 ### An aesthetic and eye catching Halloween Website with glossy UI/UX design.
 ### Tech Stack Used:
 #### 1. HTML.
